@@ -7,7 +7,7 @@ This repository contains the approach of bimax biclustering on the manually cura
 - [Introduction](#Introduction)
 COVID-19 pandemic defined a worldwide health crisis into a humanitarian crisis. Amid this global emergency, human civilization is under enormous strain since no proper therapeutic method is discovered yet. A wave of research effort has been put toward the invention of therapeutics and vaccines against COVID-19. Contrarily, the spread of this fatal virus has already infected millions of people and claimed many lives all over the world. Computational biology can attempt to understand the protein–protein interactions between the viral protein and host protein. Therefore, potential viral–host protein interactions can be identified which is known as crucial information toward the discovery of drugs. In this study, an approach was presented for predicting novel interactions from maximal biclusters. Additionally, the predicted interactions are verified from biological perspectives. For this, a study was conducted on the gene ontology and KEGG-pathway in relation to the newly predicted interactions.
 
-- [Proposed framework](#Proposed framework)
+- [Proposed framework](#Proposed_framework)
 ![Model](Framework.png)
 
 ## ORIGINAL PAPER
