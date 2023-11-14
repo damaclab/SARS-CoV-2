@@ -24,7 +24,7 @@ The dataset consists of 28 SARS-CoV-2 proteins and 346 human proteins and a tota
 SARS-CoV-2-Human PPI dataset is denoted as HxC where the rows represent the human proteins and the columns represent the viral proteins. In this case, we get the clustered itemsets of SARS-CoV-2 proteins that have a similar interaction pattern for a subset of objects of human proteins. We have also used the transposed form of the SARS-CoV-2-Human PPI dataset which is
 represented by the CxH. The aim of this transposed data is to obtain the clusters along with the human proteins for a subset of objects of SARS-CoV-2 proteins. From the statistics represented in Table 1, it could be justified that to cover all the possibilities, we need to experiment on both the original and the transposed datasets as there is a difference in the obtained results of the biclusters in both cases. Here, each bicluster specifies that with a subset of human proteins, a subset of SARS-CoV-2 proteins interacts and vice versa.
 
--[Tools used](#Tools used)
+-[Tools used](#Tools_used)
 
  1. Cytoscape: To draw network for predicted interactions Cytoscape (https://cytoscape.org/) hsa been used.
       
