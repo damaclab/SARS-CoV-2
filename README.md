@@ -7,7 +7,7 @@ This repository contains the approach of bimax biclustering on the manually cura
 - [Introduction](#Introduction)
 - [Proposed framework](#Proposed_framework)
 - [Dataset](#Dataset)
--[Tools used](#Tools used)
+-[Tools used](#Tools_used)
 -[References](#References)
 
 - [Introduction](#Introduction)
